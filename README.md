@@ -4,7 +4,7 @@ The *Smart Interactive CPR Training Application* is a mobile app that uses smart
 
 ## 👥 Team Members
 1. *Rahul Kumar Achary* – 23CSE295 – 23UG010379  
-2. *Laidi Naga Vardhan* – 23CSE299 – 23UG010383  
+2. *Ladi Naga Vardhan* – 23CSE299 – 23UG010383  
 3. *Ippili Sai Dhanush* – 23CSE320 – 23UG010340  
 4. *Vikash Sahu* – 23CSE381 – 23UG010464  
 
